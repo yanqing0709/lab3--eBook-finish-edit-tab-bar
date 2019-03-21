@@ -1545,11 +1545,11 @@
             </objects>
             <point key="canvasLocation" x="2929" y="25"/>
         </scene>
-        <!--熱門攻略-->
+        <!--照片牆-->
         <scene sceneID="hFY-B9-jGA">
             <objects>
                 <navigationController id="yOz-35-7ak" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="熱門攻略" image="179" id="Rqe-gE-3d9"/>
+                    <tabBarItem key="tabBarItem" title="照片牆" image="179" id="Rqe-gE-3d9"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="OJa-aF-xGt">
                         <rect key="frame" x="0.0" y="44" width="414" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
