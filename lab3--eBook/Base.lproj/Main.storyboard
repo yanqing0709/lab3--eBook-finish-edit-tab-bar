@@ -178,7 +178,7 @@
                                     <segue destination="7kB-kh-6lM" kind="show" id="5Dt-Kh-g24"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="home" translatesAutoresizingMaskIntoConstraints="NO" id="wc6-wv-xI1">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="01" translatesAutoresizingMaskIntoConstraints="NO" id="wc6-wv-xI1">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -1055,7 +1055,7 @@
                                         <rect key="frame" x="0.0" y="1000" width="414" height="1000"/>
                                         <autoresizingMask key="autoresizingMask"/>
                                         <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="hGp-wn-MEN" id="tyT-TJ-8ci">
-                                            <rect key="frame" x="0.0" y="0.0" width="414" height="1000"/>
+                                            <rect key="frame" x="0.0" y="0.0" width="414" height="999.5"/>
                                             <autoresizingMask key="autoresizingMask"/>
                                             <subviews>
                                                 <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="y2L-ad-VFh">
@@ -5403,11 +5403,11 @@
                                                         <rect key="frame" x="0.0" y="0.0" width="378" height="367"/>
                                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                                         <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                                        <mutableString key="text">聖殿聖女中，愛麗絲是年紀最小的一位。所以她能夠任性拒絕執行任務，自顧自地與飛鳥遊魚玩耍。此時，其他聖女會用愛憐的目光注視著愛麗絲，她們眼中的溫柔仿佛像是在看自己的女兒一樣。
+                                                        <string key="text">聖殿聖女中，愛麗絲是年紀最小的一位。所以她能夠任性拒絕執行任務，自顧自地與飛鳥遊魚玩耍。此時，其他聖女會用愛憐的目光注視著愛麗絲，她們眼中的溫柔仿佛像是在看自己的女兒一樣。
 天真爛漫的愛麗絲，字典裡從無“敬畏”二字。即使是在聖殿領袖面前，愛麗絲也毫不掩飾自己愛鬧的性格，發自心底的微笑總能輕易將祂的矜持擊穿。但如果因此小看愛麗絲的話，那就大錯特錯了——當墮落者入侵時，愛麗絲離開聖殿加入了反抗軍，她的加入為戰士們提供了強有力的支援。因為卓越的貢獻，愛麗絲很快獲得了公主的封號。
 “不要輕易激怒這位小公主。”這句忠告在任何時候都有效。那些被愛麗絲擊敗的敵人，則充分證明了這句忠告的真實性。如果有幸與愛麗絲同場作戰，你一定會驚訝這具小小的軀體中，為何會爆發出如此強大的能量。
 
-“每個令你害怕的時刻，都是讓你勇敢的機會！”</mutableString>
+“每個令你害怕的時刻，都是讓你勇敢的機會！”</string>
                                                         <color key="textColor" red="0.66159409280000003" green="0.72656047339999996" blue="0.90590506790000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -5780,6 +5780,5 @@
         <image name="IMG_1499" width="750" height="743"/>
         <image name="IMG_1500" width="750" height="743"/>
         <image name="IMG_1501" width="750" height="744"/>
-        <image name="home" width="1250" height="1597"/>
     </resources>
 </document>
