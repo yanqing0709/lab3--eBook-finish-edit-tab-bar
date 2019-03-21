@@ -178,7 +178,7 @@
                                     <segue destination="7kB-kh-6lM" kind="show" id="5Dt-Kh-g24"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="02" translatesAutoresizingMaskIntoConstraints="NO" id="wc6-wv-xI1">
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="home" translatesAutoresizingMaskIntoConstraints="NO" id="wc6-wv-xI1">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
@@ -5780,5 +5780,6 @@
         <image name="IMG_1499" width="750" height="743"/>
         <image name="IMG_1500" width="750" height="743"/>
         <image name="IMG_1501" width="750" height="744"/>
+        <image name="home" width="1250" height="1597"/>
     </resources>
 </document>
